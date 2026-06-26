@@ -1,20 +1,26 @@
-import os
-os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
-
 from functools import lru_cache
 from pathlib import Path
+import os
 
+os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
 
-from pathlib import Path
+MODEL_PATH = (
+    Path(__file__).resolve()
+    .parents[1]
+    / "models"
+    / "best.pt"
+)
 
-ROOT_DIR = Path(__file__).resolve().parents[1]
-
-MODEL_PATH = ROOT_DIR / "models" / "best.pt"
 
 @lru_cache(maxsize=1)
 def load_pest_model():
 
     from ultralytics import YOLO
+
+    if not MODEL_PATH.exists():
+        raise FileNotFoundError(
+            f"Pest model missing: {MODEL_PATH}"
+        )
 
     model = YOLO(str(MODEL_PATH))
 
@@ -26,26 +32,28 @@ def predict_pest(image):
 
     model = load_pest_model()
 
-    results = model(image)
+    results = model.predict(
+        image,
+        device="cpu",
+        verbose=False
+    )
 
-
-    detections = []
-
+    detections=[]
 
     for result in results:
 
         for box in result.boxes:
 
-            cls = int(box.cls[0])
+            cls=int(box.cls[0])
 
-            conf = float(box.conf[0])
+            conf=float(box.conf[0])
+
 
             detections.append(
                 {
                     "pest": model.names[cls],
-                    "confidence": round(conf * 100, 2)
+                    "confidence": round(conf*100,2)
                 }
             )
-
 
     return detections

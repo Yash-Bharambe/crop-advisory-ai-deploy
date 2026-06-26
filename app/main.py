@@ -14,8 +14,15 @@ if str(ROOT_DIR) not in sys.path:
 
 
 from app.advisory_pipeline import run_advisory_pipeline
-from tools.disease_predictor import predict_disease
-from tools.pest_predictor import predict_pest
+from tools.disease_predictor import (
+    load_disease_model,
+    predict_disease
+)
+
+from tools.pest_predictor import (
+    load_pest_model,
+    predict_pest
+)
 # ─────────────────────────────────────────────────────────────────────────────
 # PAGE CONFIG & CUSTOM CSS
 # ─────────────────────────────────────────────────────────────────────────────
@@ -601,6 +608,6 @@ if advisory_result:
     )
 
     if st.button("🔄 Start new analysis", use_container_width=True):
-        for key in ["analysis", "advisory_result", "models_preloaded"]:
+        for key in ["analysis", "advisory_result", "models_loaded"]:
             st.session_state.pop(key, None)
         st.rerun()
