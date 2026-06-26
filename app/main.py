@@ -1,12 +1,21 @@
+import sys
 import concurrent.futures
+from pathlib import Path
+
 import streamlit as st
 from PIL import Image
 
-# Import your real model logic and pipelines
-from advisory_pipeline import run_advisory_pipeline
-from tools.disease_predictor import load_disease_model, predict_disease
-from tools.pest_predictor import load_pest_model, predict_pest
 
+# Fix imports for Streamlit Cloud
+ROOT_DIR = Path(__file__).resolve().parents[1]
+
+if str(ROOT_DIR) not in sys.path:
+    sys.path.insert(0, str(ROOT_DIR))
+
+
+from app.advisory_pipeline import run_advisory_pipeline
+from tools.disease_predictor import predict_disease
+from tools.pest_predictor import predict_pest
 # ─────────────────────────────────────────────────────────────────────────────
 # PAGE CONFIG & CUSTOM CSS
 # ─────────────────────────────────────────────────────────────────────────────
@@ -256,14 +265,11 @@ with st.sidebar:
 # MODEL PRELOAD
 # ─────────────────────────────────────────────────────────────────────────────
 
-def preload_models():
-    if not st.session_state.get("models_preloaded", False):
-        with st.spinner("Warming up AI models…"):
-            load_disease_model()
-            load_pest_model()
-        st.session_state["models_preloaded"] = True
+# Models are loaded only when prediction starts.
+# This keeps Streamlit Cloud startup lightweight.
 
-preload_models()
+if "models_loaded" not in st.session_state:
+    st.session_state["models_loaded"] = False
 
 # ─────────────────────────────────────────────────────────────────────────────
 # HERO

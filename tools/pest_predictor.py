@@ -5,8 +5,11 @@ from functools import lru_cache
 from pathlib import Path
 
 
-MODEL_PATH = Path(__file__).resolve().parents[1] / "models" / "best.pt"
+from pathlib import Path
 
+ROOT_DIR = Path(__file__).resolve().parents[1]
+
+MODEL_PATH = ROOT_DIR / "models" / "best.pt"
 
 @lru_cache(maxsize=1)
 def load_pest_model():
