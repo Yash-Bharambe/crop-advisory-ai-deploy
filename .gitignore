@@ -1,0 +1,12 @@
+deploy_env/
+venv/
+plant_env/
+yolo_env/
+
+__pycache__/
+*.pyc
+
+datasets/
+runs/
+
+*.log

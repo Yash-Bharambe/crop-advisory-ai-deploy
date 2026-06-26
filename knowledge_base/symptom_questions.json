@@ -1,0 +1,2795 @@
+{
+    "Apple_Healthy": {
+        "questions": [
+            {
+                "question": "Are the leaves free from spots and markings?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are the plants growing normally and looking green?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the fruit (or crop) developing without rot or damage?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Corn_Healthy": {
+        "questions": [
+            {
+                "question": "Are the leaves free from spots and markings?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are the plants growing normally and looking green?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the fruit (or crop) developing without rot or damage?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Grape_Healthy": {
+        "questions": [
+            {
+                "question": "Are the leaves free from spots and markings?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are the plants growing normally and looking green?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the fruit (or crop) developing without rot or damage?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Potato_Healthy": {
+        "questions": [
+            {
+                "question": "Are the leaves free from spots and markings?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are the plants growing normally and looking green?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the fruit (or crop) developing without rot or damage?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Tomato_Healthy": {
+        "questions": [
+            {
+                "question": "Are the leaves free from spots and markings?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are the plants growing normally and looking green?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the fruit (or crop) developing without rot or damage?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Pepper_Healthy": {
+        "questions": [
+            {
+                "question": "Are the leaves free from spots and markings?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are the plants growing normally and looking green?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the fruit (or crop) developing without rot or damage?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Strawberry_Healthy": {
+        "questions": [
+            {
+                "question": "Are the leaves free from spots and markings?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are the plants growing normally and looking green?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the fruit (or crop) developing without rot or damage?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Peach_Healthy": {
+        "questions": [
+            {
+                "question": "Are the leaves free from spots and markings?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are the plants growing normally and looking green?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the fruit (or crop) developing without rot or damage?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Apple_Scab": {
+        "questions": [
+            {
+                "question": "Are there olive-green or dark spots on the leaves?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Do the apples have dark, scabby patches on them?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are affected leaves dropping off early?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Apple_Black_Rot": {
+        "questions": [
+            {
+                "question": "Are there 'frog-eye' shaped spots on the leaves?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are parts of the apple turning brown and rotting while on the tree?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there dried up, black apples ('mummies') still attached to the branches?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Apple_Cedar_Apple_Rust": {
+        "questions": [
+            {
+                "question": "Are there bright yellow or orange spots on the upper side of the leaves?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there small orange swellings or 'horns' under the leaves?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Have you seen rust-colored spots on the fruit?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Corn_Cercospora_Leaf_Spot": {
+        "questions": [
+            {
+                "question": "Are there small, tan or grey spots on the leaves?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Do the spots have clear, distinct edges (rectangular shape)?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are the lower leaves turning brown and drying up?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Corn_Common_Rust": {
+        "questions": [
+            {
+                "question": "Are there powdery, reddish-brown spots (pustules) on both sides of the leaves?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Does the red powder rub off when you touch the spots?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are the heavily covered leaves turning yellow or drying out?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Corn_Northern_Leaf_Blight": {
+        "questions": [
+            {
+                "question": "Are there long, cigar-shaped grey or brown spots on the leaves?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are the spots starting on the lower leaves and moving up?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are whole leaves dying and turning grey?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Grape_Black_Rot": {
+        "questions": [
+            {
+                "question": "Are the grapes turning brown, then black, hard, and shriveled?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there light brown, circular spots with dark edges on the leaves?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there tiny black dots inside the leaf spots?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Grape_Esca": {
+        "questions": [
+            {
+                "question": "Do the leaves have a 'tiger-stripe' pattern of yellow and brown?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are the vines suddenly wilting or dying off?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there dark, tiny spots speckling the surface of the grapes?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Grape_Leaf_Blight": {
+        "questions": [
+            {
+                "question": "Are there large, irregular brown spots drying out the leaf edges?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are the affected leaves dropping off the vine earlier than normal?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are the spots spreading quickly in wet weather?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Potato_Early_Blight": {
+        "questions": [
+            {
+                "question": "Are there brown spots on the lower leaves that look like a target (rings inside)?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the leaf yellowing around the brown spots?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are the stems showing dark, sunken spots?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Potato_Late_Blight": {
+        "questions": [
+            {
+                "question": "Are there large, dark, water-soaked spots spreading quickly on the leaves?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is there a white, fuzzy mold under the leaves in the morning or when wet?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Do the potatoes in the ground have hard, dark, reddish-brown spots under the skin?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Tomato_Bacterial_Spot": {
+        "questions": [
+            {
+                "question": "Are there small, dark, water-soaked spots on the leaves?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Do the green tomatoes have raised, scabby dark spots on them?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are the severely spotted leaves turning yellow and dropping?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Tomato_Early_Blight": {
+        "questions": [
+            {
+                "question": "Are there brown, target-like spots (concentric rings) on the oldest leaves first?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is there a large yellow halo around the brown spots?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are the spots moving from the bottom leaves to the top?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Tomato_Late_Blight": {
+        "questions": [
+            {
+                "question": "Are large sections of the leaves quickly turning brown and looking water-soaked?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is there white fuzzy growth on the underside of the leaves when it is wet?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are the tomatoes developing large, firm, dark brown greasy-looking spots?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Tomato_Leaf_Mold": {
+        "questions": [
+            {
+                "question": "Are there pale green or yellow spots on the top side of the older leaves?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is there an olive-green or grey fuzzy mold directly under those yellow spots?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are affected leaves curling and dying but staying on the plant?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Tomato_Septoria_Leaf_Spot": {
+        "questions": [
+            {
+                "question": "Are there many small, circular spots with grey centers and dark borders on the lower leaves?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Can you see tiny black specks in the center of the spots?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are the lower leaves turning yellow, dying, and dropping off heavily?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Tomato_Spider_Mites": {
+        "questions": [
+            {
+                "question": "Do the leaves look speckled, stippled, or pale yellow?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is there very fine, silken webbing visible under the leaves or between stems?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Do you see tiny, moving dots (mites) under the leaves when you look closely?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Tomato_Target_Spot": {
+        "questions": [
+            {
+                "question": "Are there dark brown spots with a lighter center on the leaves?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there sunken spots with rings developing on the tomatoes?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are the leaves drying out and falling off quickly?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Tomato_Mosaic_Virus": {
+        "questions": [
+            {
+                "question": "Do the leaves have a mottled pattern of light and dark green?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are the leaves curled, wrinkled, or fern-like in shape?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant stunted or smaller than healthy plants?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Tomato_Yellow_Leaf_Curl_Virus": {
+        "questions": [
+            {
+                "question": "Are the top leaves severely yellowing and curling upwards (cup-like)?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant very stunted, not growing tall?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are the flowers dropping off without making tomatoes?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Pepper_Bacterial_Spot": {
+        "questions": [
+            {
+                "question": "Are there small, dark, water-soaked spots on the leaves?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Do the peppers have raised, scabby brown spots?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are the leaves turning yellow and dropping off the plant?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Strawberry_Leaf_Scorch": {
+        "questions": [
+            {
+                "question": "Are there irregular, purple or dark red spots on the leaves?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Do the spots lack a light center?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Do the edges of the leaves look brown and burned (scorched)?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Peach_Bacterial_Spot": {
+        "questions": [
+            {
+                "question": "Are there small, angular purple or dark spots on the leaves?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Do the spots dry out and fall out, leaving 'shot-holes' in the leaves?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there deep cracks or pitted dark spots on the peaches?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "rice leaf roller": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "rice leaf caterpillar": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "paddy stem maggot": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "asiatic rice borer": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "yellow rice borer": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "rice gall midge": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Rice Stemfly": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "brown plant hopper": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "white backed plant hopper": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "small brown plant hopper": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "rice water weevil": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "rice leafhopper": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "grain spreader thrips": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "rice shell pest": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "grub": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "mole cricket": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "wireworm": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "white margined moth": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "blackcutworm": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "large cutworm": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "yellow cutworm": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "red spider": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "corn borer": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "army worm": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "aphids": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Potosiabre vitarsis": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "peach borer": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "english grain aphid": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "green bug": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "bird cherry-oataphid": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "wheat blossom midge": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "penthaleus major": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "longlegged spider mite": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "wheat phloeothrips": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "wheat sawfly": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "cerodonta denticornis": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "beet fly": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "flea beetle": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "cabbage army worm": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "beet army worm": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Beet spot flies": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "meadow moth": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "beet weevil": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "sericaorient alismots chulsky": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "alfalfa weevil": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "flax budworm": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "alfalfa plant bug": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "tarnished plant bug": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Locustoidea": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "lytta polita": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "legume blister beetle": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "blister beetle": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "therioaphis maculata Buckton": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "odontothrips loti": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Thrips": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "alfalfa seed chalcid": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Pieris canidia": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Apolygus lucorum": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Limacodidae": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Viteus vitifoliae": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Colomerus vitis": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Brevipoalpus lewisi McGregor": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "oides decempunctata": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Polyphagotars onemus latus": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Pseudococcus comstocki Kuwana": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "parathrene regalis": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Ampelophaga": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Lycorma delicatula": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Xylotrechus": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Cicadella viridis": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Miridae": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Trialeurodes vaporariorum": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Erythroneura apicalis": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Papilio xuthus": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Panonchus citri McGregor": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Phyllocoptes oleiverus ashmead": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Icerya purchasi Maskell": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Unaspis yanonensis": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Ceroplastes rubens": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Chrysomphalus aonidum": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Parlatoriazizyphus Lucus": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Nipaecoccus vastalor": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Aleurocanthus spiniferus": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Tetradacus c Bactrocera minax": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Dacus dorsalis(Hendel)": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Bactroceratsuneonis": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Prodenia litura": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Adristyrannus": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Phyllocnistis citrella Stainton": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Toxoptera citricidus": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Toxoptera aurantii": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Aphiscitricola Vander Goot": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Scirtothrips dorsalis Hood": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Dasineura sp": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Lawana imitata Melichar": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Salurnis marginella Guerr": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Deporaus marginatus Pascoe": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Chlumetia transversa": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Mango flat beak leafhopper": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Rhytidodera bowrinii white": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Sternochetus frigidus": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    },
+    "Cicadellidae": {
+        "questions": [
+            {
+                "question": "Do you see insects, caterpillars, or tiny bugs actively crawling on the plants?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Are there holes chewed in the leaves, stems, or fruit?",
+                "yes_score": 2,
+                "importance": "high"
+            },
+            {
+                "question": "Is the plant wilting, drooping, or showing sticky residue on the leaves?",
+                "yes_score": 1,
+                "importance": "medium"
+            }
+        ],
+        "maximum_score": 5,
+        "minimum_questions_required": 2
+    }
+}

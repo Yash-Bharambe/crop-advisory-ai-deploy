@@ -1,0 +1,1428 @@
+{
+    "Apple_Scab": {
+        "display_name": "Apple Scab",
+        "crop": "Apple",
+        "type": "Disease",
+        "description": "A fungal disease causing dark lesions on leaves and fruit.",
+        "symptoms": [
+            "Olive green spots on leaves",
+            "Dark scabs on fruit"
+        ],
+        "common_conditions": [
+            "High humidity",
+            "Cool spring weather"
+        ],
+        "risk_factors": {
+            "rapid_spread": true,
+            "leaf_damage": "high",
+            "fruit_damage": "high"
+        },
+        "risk_questions": [
+            "Has it rained frequently?",
+            "Is canopy dense?",
+            "Are spots on new growth?"
+        ],
+        "recommendations": {
+            "low": [
+                "Prune for airflow",
+                "Rake fallen leaves"
+            ],
+            "medium": [
+                "Apply preventative fungicides",
+                "Monitor new growth"
+            ],
+            "high": [
+                "Use systemic fungicides",
+                "Remove infected fruit"
+            ]
+        },
+        "prevention": [
+            "Plant resistant varieties",
+            "Sanitize orchard"
+        ],
+        "source_category": [
+            "ICAR",
+            "FAO"
+        ]
+    },
+    "Apple_Black_Rot": {
+        "display_name": "Black Rot",
+        "crop": "Apple",
+        "type": "Disease",
+        "description": "Fungal disease affecting fruit, leaves, and bark.",
+        "symptoms": [
+            "Frog-eye leaf spots",
+            "Brown rotting on fruit"
+        ],
+        "common_conditions": [
+            "Warm, wet weather",
+            "Mummified fruit on trees"
+        ],
+        "risk_factors": {
+            "rapid_spread": false,
+            "leaf_damage": "medium",
+            "fruit_damage": "high"
+        },
+        "risk_questions": [
+            "Are there dead branches?",
+            "Is fruit rotting on tree?",
+            "Are there mummies?"
+        ],
+        "recommendations": {
+            "low": [
+                "Remove dead wood",
+                "Destroy mummified fruit"
+            ],
+            "medium": [
+                "Prune out cankers",
+                "Apply protectant fungicides"
+            ],
+            "high": [
+                "Intensive pruning",
+                "Apply post-infection fungicides"
+            ]
+        },
+        "prevention": [
+            "Proper sanitation",
+            "Remove infected debris"
+        ],
+        "source_category": [
+            "ICAR",
+            "FAO"
+        ]
+    },
+    "Apple_Cedar_Apple_Rust": {
+        "display_name": "Cedar Apple Rust",
+        "crop": "Apple",
+        "type": "Disease",
+        "description": "Fungal rust requiring juniper as a co-host.",
+        "symptoms": [
+            "Yellow-orange spots on leaves",
+            "Rust-colored lesions on fruit"
+        ],
+        "common_conditions": [
+            "Proximity to cedar trees",
+            "Wet spring conditions"
+        ],
+        "risk_factors": {
+            "rapid_spread": true,
+            "leaf_damage": "medium",
+            "fruit_damage": "possible"
+        },
+        "risk_questions": [
+            "Are there cedar trees nearby?",
+            "Did it rain during bud break?",
+            "Are lesions bright orange?"
+        ],
+        "recommendations": {
+            "low": [
+                "Remove nearby cedars",
+                "Prune orchard"
+            ],
+            "medium": [
+                "Apply sulfur sprays",
+                "Monitor leaf spots"
+            ],
+            "high": [
+                "Use targeted fungicides during bloom",
+                "Intensive orchard monitoring"
+            ]
+        },
+        "prevention": [
+            "Avoid planting near junipers",
+            "Use resistant varieties"
+        ],
+        "source_category": [
+            "ICAR",
+            "FAO"
+        ]
+    },
+    "Apple_Healthy": {
+        "display_name": "Healthy Apple",
+        "crop": "Apple",
+        "type": "Healthy",
+        "description": "Plant is healthy and shows no signs of disease.",
+        "symptoms": [
+            "Green, unblemished leaves",
+            "Firm, clear fruit"
+        ],
+        "common_conditions": [
+            "Optimal sunlight",
+            "Good drainage"
+        ],
+        "risk_factors": {
+            "rapid_spread": false,
+            "leaf_damage": "low",
+            "fruit_damage": "none"
+        },
+        "risk_questions": [
+            "Are you maintaining regular watering?",
+            "Is soil fertility balanced?",
+            "Are trees well-spaced?"
+        ],
+        "recommendations": {
+            "low": [
+                "Continue current practices",
+                "Regular monitoring"
+            ],
+            "medium": [
+                "Maintain irrigation schedule",
+                "Routine scouting"
+            ],
+            "high": [
+                "Not applicable",
+                "Not applicable"
+            ]
+        },
+        "prevention": [
+            "General field sanitation",
+            "Balanced fertilization"
+        ],
+        "source_category": [
+            "ICAR",
+            "FAO"
+        ]
+    },
+    "Corn_Cercospora_Leaf_Spot": {
+        "display_name": "Cercospora Leaf Spot",
+        "crop": "Corn",
+        "type": "Disease",
+        "description": "Fungal disease causing grey leaf spot.",
+        "symptoms": [
+            "Rectangular brown lesions",
+            "Grey spots on foliage"
+        ],
+        "common_conditions": [
+            "High humidity",
+            "Overcast weather"
+        ],
+        "risk_factors": {
+            "rapid_spread": true,
+            "leaf_damage": "high",
+            "fruit_damage": "none"
+        },
+        "risk_questions": [
+            "Are lower leaves turning grey?",
+            "Is the field very dense?",
+            "Has it been overcast?"
+        ],
+        "recommendations": {
+            "low": [
+                "Ensure proper spacing",
+                "Weed control"
+            ],
+            "medium": [
+                "Apply foliar fungicides",
+                "Monitor disease progression"
+            ],
+            "high": [
+                "Harvest early if possible",
+                "Apply strong fungicides"
+            ]
+        },
+        "prevention": [
+            "Crop rotation",
+            "Use resistant hybrids"
+        ],
+        "source_category": [
+            "ICAR",
+            "FAO"
+        ]
+    },
+    "Corn_Common_Rust": {
+        "display_name": "Common Rust",
+        "crop": "Corn",
+        "type": "Disease",
+        "description": "Fungal rust appearing on corn leaves.",
+        "symptoms": [
+            "Reddish-brown pustules on leaves",
+            "Yellowing of leaf tissue"
+        ],
+        "common_conditions": [
+            "Cool, moist weather",
+            "High humidity"
+        ],
+        "risk_factors": {
+            "rapid_spread": true,
+            "leaf_damage": "medium",
+            "fruit_damage": "none"
+        },
+        "risk_questions": [
+            "Are there powdery spots on leaves?",
+            "Is the weather unusually cool?",
+            "Are pustules raised?"
+        ],
+        "recommendations": {
+            "low": [
+                "Monitor fields closely",
+                "Improve drainage"
+            ],
+            "medium": [
+                "Apply protectant fungicides",
+                "Remove heavily infected plants"
+            ],
+            "high": [
+                "Use systemic fungicides",
+                "Evaluate for early harvest"
+            ]
+        },
+        "prevention": [
+            "Plant resistant hybrids",
+            "Avoid late planting"
+        ],
+        "source_category": [
+            "ICAR",
+            "FAO"
+        ]
+    },
+    "Corn_Northern_Leaf_Blight": {
+        "display_name": "Northern Leaf Blight",
+        "crop": "Corn",
+        "type": "Disease",
+        "description": "Fungal disease causing cigar-shaped lesions.",
+        "symptoms": [
+            "Large, cigar-shaped grey lesions",
+            "Premature death of leaves"
+        ],
+        "common_conditions": [
+            "Moderate temperatures",
+            "Heavy dews"
+        ],
+        "risk_factors": {
+            "rapid_spread": true,
+            "leaf_damage": "high",
+            "fruit_damage": "none"
+        },
+        "risk_questions": [
+            "Are there large grey spots?",
+            "Is the canopy holding moisture?",
+            "Are lesions cigar-shaped?"
+        ],
+        "recommendations": {
+            "low": [
+                "Promote rapid drying",
+                "Control weeds"
+            ],
+            "medium": [
+                "Apply preventative fungicides",
+                "Monitor upper leaves"
+            ],
+            "high": [
+                "Apply systemic treatments",
+                "Prepare for yield loss mitigation"
+            ]
+        },
+        "prevention": [
+            "Use resistant varieties",
+            "Tillage to bury residue"
+        ],
+        "source_category": [
+            "ICAR",
+            "FAO"
+        ]
+    },
+    "Corn_Healthy": {
+        "display_name": "Healthy Corn",
+        "crop": "Corn",
+        "type": "Healthy",
+        "description": "Corn plant with no visible signs of infection.",
+        "symptoms": [
+            "Vibrant green leaves",
+            "Strong stalks"
+        ],
+        "common_conditions": [
+            "Adequate sunlight",
+            "Balanced nutrients"
+        ],
+        "risk_factors": {
+            "rapid_spread": false,
+            "leaf_damage": "low",
+            "fruit_damage": "none"
+        },
+        "risk_questions": [
+            "Are nutrients balanced?",
+            "Is soil moisture adequate?",
+            "Is field weed-free?"
+        ],
+        "recommendations": {
+            "low": [
+                "Maintain current practices",
+                "Monitor for pests"
+            ],
+            "medium": [
+                "Continue standard care",
+                "Routine scouting"
+            ],
+            "high": [
+                "Not applicable",
+                "Not applicable"
+            ]
+        },
+        "prevention": [
+            "Crop rotation",
+            "Balanced fertilization"
+        ],
+        "source_category": [
+            "ICAR",
+            "FAO"
+        ]
+    },
+    "Grape_Black_Rot": {
+        "display_name": "Black Rot",
+        "crop": "Grape",
+        "type": "Disease",
+        "description": "Devastating fungal disease of grapevines.",
+        "symptoms": [
+            "Brown lesions on leaves",
+            "Hard, black, shriveled berries"
+        ],
+        "common_conditions": [
+            "Warm, humid weather",
+            "Frequent rain"
+        ],
+        "risk_factors": {
+            "rapid_spread": true,
+            "leaf_damage": "high",
+            "fruit_damage": "high"
+        },
+        "risk_questions": [
+            "Are berries turning black?",
+            "Are leaves showing brown spots?",
+            "Did it rain heavily?"
+        ],
+        "recommendations": {
+            "low": [
+                "Prune for canopy openness",
+                "Remove mummies"
+            ],
+            "medium": [
+                "Apply preventative copper sprays",
+                "Improve air flow"
+            ],
+            "high": [
+                "Apply systemic fungicides",
+                "Destroy infected clusters"
+            ]
+        },
+        "prevention": [
+            "Strict sanitation",
+            "Weed control in rows"
+        ],
+        "source_category": [
+            "ICAR",
+            "FAO"
+        ]
+    },
+    "Grape_Esca": {
+        "display_name": "Esca (Black Measles)",
+        "crop": "Grape",
+        "type": "Disease",
+        "description": "Complex wood disease affecting the vascular system.",
+        "symptoms": [
+            "Tiger-stripe pattern on leaves",
+            "Dark spots on berries"
+        ],
+        "common_conditions": [
+            "Older vines",
+            "Pruning wounds"
+        ],
+        "risk_factors": {
+            "rapid_spread": false,
+            "leaf_damage": "high",
+            "fruit_damage": "high"
+        },
+        "risk_questions": [
+            "Are leaves showing tiger stripes?",
+            "Are vines suddenly wilting?",
+            "Are vines old?"
+        ],
+        "recommendations": {
+            "low": [
+                "Prune out dead wood",
+                "Seal pruning wounds"
+            ],
+            "medium": [
+                "Remove infected vines",
+                "Avoid pruning in wet weather"
+            ],
+            "high": [
+                "Replant severely affected areas",
+                "Intense vine surgery"
+            ]
+        },
+        "prevention": [
+            "Protect pruning wounds",
+            "Sanitize pruning tools"
+        ],
+        "source_category": [
+            "ICAR",
+            "FAO"
+        ]
+    },
+    "Grape_Leaf_Blight": {
+        "display_name": "Leaf Blight",
+        "crop": "Grape",
+        "type": "Disease",
+        "description": "Fungal disease causing irregular brown spots.",
+        "symptoms": [
+            "Irregular brown spots",
+            "Leaf yellowing and drop"
+        ],
+        "common_conditions": [
+            "Wet spring weather",
+            "Poor air circulation"
+        ],
+        "risk_factors": {
+            "rapid_spread": true,
+            "leaf_damage": "medium",
+            "fruit_damage": "none"
+        },
+        "risk_questions": [
+            "Are lower leaves turning brown?",
+            "Is the canopy dense?",
+            "Are there yellowing leaves?"
+        ],
+        "recommendations": {
+            "low": [
+                "Improve air flow",
+                "Manage weeds"
+            ],
+            "medium": [
+                "Apply protectant sprays",
+                "Remove fallen leaves"
+            ],
+            "high": [
+                "Use targeted fungicides",
+                "Defoliate lower canopy"
+            ]
+        },
+        "prevention": [
+            "Canopy management",
+            "Proper vine spacing"
+        ],
+        "source_category": [
+            "ICAR",
+            "FAO"
+        ]
+    },
+    "Grape_Healthy": {
+        "display_name": "Healthy Grape",
+        "crop": "Grape",
+        "type": "Healthy",
+        "description": "Grapevines showing vigorous, unblemished growth.",
+        "symptoms": [
+            "Green, healthy leaves",
+            "Clean fruit clusters"
+        ],
+        "common_conditions": [
+            "Optimal irrigation",
+            "Good sunlight penetration"
+        ],
+        "risk_factors": {
+            "rapid_spread": false,
+            "leaf_damage": "low",
+            "fruit_damage": "none"
+        },
+        "risk_questions": [
+            "Is watering consistent?",
+            "Are vines properly pruned?",
+            "Is there good sun exposure?"
+        ],
+        "recommendations": {
+            "low": [
+                "Maintain current practices",
+                "Monitor for pests"
+            ],
+            "medium": [
+                "Continue standard care",
+                "Routine scouting"
+            ],
+            "high": [
+                "Not applicable",
+                "Not applicable"
+            ]
+        },
+        "prevention": [
+            "Annual pruning",
+            "Balanced fertilization"
+        ],
+        "source_category": [
+            "ICAR",
+            "FAO"
+        ]
+    },
+    "Potato_Early_Blight": {
+        "display_name": "Early Blight",
+        "crop": "Potato",
+        "type": "Disease",
+        "description": "Fungal disease causing concentric ring spots.",
+        "symptoms": [
+            "Dark spots with concentric rings",
+            "Yellowing around spots"
+        ],
+        "common_conditions": [
+            "Warm weather",
+            "Alternating wet/dry periods"
+        ],
+        "risk_factors": {
+            "rapid_spread": true,
+            "leaf_damage": "high",
+            "fruit_damage": "none"
+        },
+        "risk_questions": [
+            "Are there target-like spots?",
+            "Are lower leaves affected first?",
+            "Is it warm and humid?"
+        ],
+        "recommendations": {
+            "low": [
+                "Ensure adequate nitrogen",
+                "Overhead watering in morning only"
+            ],
+            "medium": [
+                "Apply protectant fungicides",
+                "Remove infected foliage"
+            ],
+            "high": [
+                "Use systemic fungicides",
+                "Harvest early if needed"
+            ]
+        },
+        "prevention": [
+            "Crop rotation",
+            "Plant certified seed"
+        ],
+        "source_category": [
+            "ICAR",
+            "FAO"
+        ]
+    },
+    "Potato_Late_Blight": {
+        "display_name": "Late Blight",
+        "crop": "Potato",
+        "type": "Disease",
+        "description": "Aggressive water mold disease causing rapid decay.",
+        "symptoms": [
+            "Large water-soaked lesions",
+            "White fuzzy growth under leaves"
+        ],
+        "common_conditions": [
+            "Cool, wet weather",
+            "High humidity"
+        ],
+        "risk_factors": {
+            "rapid_spread": true,
+            "leaf_damage": "high",
+            "fruit_damage": "high"
+        },
+        "risk_questions": [
+            "Are there rapid water-soaked spots?",
+            "Is the weather cool and wet?",
+            "Is there fuzzy growth?"
+        ],
+        "recommendations": {
+            "low": [
+                "Destroy cull piles",
+                "Avoid nighttime irrigation"
+            ],
+            "medium": [
+                "Apply copper-based fungicides",
+                "Monitor closely"
+            ],
+            "high": [
+                "Apply strong systemic fungicides",
+                "Destroy infected canopy"
+            ]
+        },
+        "prevention": [
+            "Use resistant varieties",
+            "Eliminate volunteer potatoes"
+        ],
+        "source_category": [
+            "ICAR",
+            "FAO"
+        ]
+    },
+    "Potato_Healthy": {
+        "display_name": "Healthy Potato",
+        "crop": "Potato",
+        "type": "Healthy",
+        "description": "Healthy potato plant with vigorous foliage.",
+        "symptoms": [
+            "Green, upright stems",
+            "Unblemished leaves"
+        ],
+        "common_conditions": [
+            "Well-drained soil",
+            "Adequate moisture"
+        ],
+        "risk_factors": {
+            "rapid_spread": false,
+            "leaf_damage": "low",
+            "fruit_damage": "none"
+        },
+        "risk_questions": [
+            "Is soil moisture adequate?",
+            "Are plants growing vigorously?",
+            "Are there no spots?"
+        ],
+        "recommendations": {
+            "low": [
+                "Maintain current practices",
+                "Monitor for pests"
+            ],
+            "medium": [
+                "Continue standard care",
+                "Routine scouting"
+            ],
+            "high": [
+                "Not applicable",
+                "Not applicable"
+            ]
+        },
+        "prevention": [
+            "Crop rotation",
+            "Use certified seed"
+        ],
+        "source_category": [
+            "ICAR",
+            "FAO"
+        ]
+    },
+    "Tomato_Bacterial_Spot": {
+        "display_name": "Bacterial Spot",
+        "crop": "Tomato",
+        "type": "Disease",
+        "description": "Bacterial disease causing spotting on leaves and fruit.",
+        "symptoms": [
+            "Small dark water-soaked spots",
+            "Scabby lesions on fruit"
+        ],
+        "common_conditions": [
+            "Warm temperatures",
+            "High moisture"
+        ],
+        "risk_factors": {
+            "rapid_spread": true,
+            "leaf_damage": "medium",
+            "fruit_damage": "high"
+        },
+        "risk_questions": [
+            "Did it rain recently?",
+            "Are there scabs on the green fruit?",
+            "Are spots water-soaked?"
+        ],
+        "recommendations": {
+            "low": [
+                "Avoid overhead watering",
+                "Improve air flow"
+            ],
+            "medium": [
+                "Apply copper sprays",
+                "Remove infected lower leaves"
+            ],
+            "high": [
+                "Apply copper treatments",
+                "Destroy severely infected plants"
+            ]
+        },
+        "prevention": [
+            "Crop rotation",
+            "Use disease-free seed"
+        ],
+        "source_category": [
+            "ICAR",
+            "FAO"
+        ]
+    },
+    "Tomato_Early_Blight": {
+        "display_name": "Early Blight",
+        "crop": "Tomato",
+        "type": "Disease",
+        "description": "Fungal infection creating target-like spots on leaves.",
+        "symptoms": [
+            "Target-like concentric spots",
+            "Yellowing of lower leaves"
+        ],
+        "common_conditions": [
+            "Warm temperatures",
+            "High humidity"
+        ],
+        "risk_factors": {
+            "rapid_spread": true,
+            "leaf_damage": "high",
+            "fruit_damage": "possible"
+        },
+        "risk_questions": [
+            "Are there spots on lower leaves?",
+            "Is the weather warm and humid?",
+            "Do spots have rings?"
+        ],
+        "recommendations": {
+            "low": [
+                "Mulch base of plants",
+                "Prune lower leaves"
+            ],
+            "medium": [
+                "Apply copper fungicides",
+                "Maintain consistent watering"
+            ],
+            "high": [
+                "Use targeted fungicides",
+                "Remove heavily infected plants"
+            ]
+        },
+        "prevention": [
+            "Crop rotation",
+            "Adequate plant spacing"
+        ],
+        "source_category": [
+            "ICAR",
+            "FAO"
+        ]
+    },
+    "Tomato_Late_Blight": {
+        "display_name": "Late Blight",
+        "crop": "Tomato",
+        "type": "Disease",
+        "description": "Fast-spreading destructive fungal-like disease.",
+        "symptoms": [
+            "Large irregular water-soaked spots",
+            "White mold on leaf underside"
+        ],
+        "common_conditions": [
+            "Cool, wet weather",
+            "High humidity"
+        ],
+        "risk_factors": {
+            "rapid_spread": true,
+            "leaf_damage": "high",
+            "fruit_damage": "high"
+        },
+        "risk_questions": [
+            "Are plants dying rapidly?",
+            "Is there white fuzzy growth under leaves?",
+            "Is it cool and wet?"
+        ],
+        "recommendations": {
+            "low": [
+                "Remove volunteer plants",
+                "Improve drainage"
+            ],
+            "medium": [
+                "Apply protectant fungicides immediately",
+                "Prune for airflow"
+            ],
+            "high": [
+                "Destroy infected plants immediately",
+                "Apply systemic fungicides"
+            ]
+        },
+        "prevention": [
+            "Plant resistant varieties",
+            "Avoid overhead watering"
+        ],
+        "source_category": [
+            "ICAR",
+            "FAO"
+        ]
+    },
+    "Tomato_Leaf_Mold": {
+        "display_name": "Leaf Mold",
+        "crop": "Tomato",
+        "type": "Disease",
+        "description": "Fungus typical in greenhouse or high-tunnel tomatoes.",
+        "symptoms": [
+            "Pale green spots on upper leaves",
+            "Olive-green mold on lower surfaces"
+        ],
+        "common_conditions": [
+            "High humidity (over 85%)",
+            "Poor air circulation"
+        ],
+        "risk_factors": {
+            "rapid_spread": true,
+            "leaf_damage": "high",
+            "fruit_damage": "none"
+        },
+        "risk_questions": [
+            "Are plants in a greenhouse?",
+            "Is humidity very high?",
+            "Is there olive mold?"
+        ],
+        "recommendations": {
+            "low": [
+                "Ventilate greenhouse",
+                "Prune lower leaves"
+            ],
+            "medium": [
+                "Apply preventative fungicides",
+                "Reduce watering"
+            ],
+            "high": [
+                "Apply targeted fungicides",
+                "Remove severely infected plants"
+            ]
+        },
+        "prevention": [
+            "Maintain low humidity",
+            "Ensure good air circulation"
+        ],
+        "source_category": [
+            "ICAR",
+            "FAO"
+        ]
+    },
+    "Tomato_Septoria_Leaf_Spot": {
+        "display_name": "Septoria Leaf Spot",
+        "crop": "Tomato",
+        "type": "Disease",
+        "description": "Fungal disease causing numerous small spots.",
+        "symptoms": [
+            "Small circular spots with dark borders",
+            "Tiny black fruiting bodies in spots"
+        ],
+        "common_conditions": [
+            "Warm, wet weather",
+            "Overcrowded plants"
+        ],
+        "risk_factors": {
+            "rapid_spread": true,
+            "leaf_damage": "high",
+            "fruit_damage": "none"
+        },
+        "risk_questions": [
+            "Are there numerous small spots on lower leaves?",
+            "Did splashing rain occur?",
+            "Are there black specks in spots?"
+        ],
+        "recommendations": {
+            "low": [
+                "Mulch around base",
+                "Avoid overhead irrigation"
+            ],
+            "medium": [
+                "Apply copper fungicides",
+                "Remove heavily infected leaves"
+            ],
+            "high": [
+                "Use systemic fungicides",
+                "Extensive pruning"
+            ]
+        },
+        "prevention": [
+            "Crop rotation",
+            "Sanitize cages and stakes"
+        ],
+        "source_category": [
+            "ICAR",
+            "FAO"
+        ]
+    },
+    "Tomato_Spider_Mites": {
+        "display_name": "Spider Mites",
+        "crop": "Tomato",
+        "type": "Pest",
+        "description": "Tiny arachnids that suck sap from the plant.",
+        "symptoms": [
+            "Stippling or yellowing of leaves",
+            "Fine webbing on plant"
+        ],
+        "common_conditions": [
+            "Hot, dry conditions",
+            "Dusty environments"
+        ],
+        "risk_factors": {
+            "rapid_spread": true,
+            "leaf_damage": "high",
+            "fruit_damage": "possible"
+        },
+        "risk_questions": [
+            "Are there fine webs on the leaves?",
+            "Is the weather hot and dry?",
+            "Are leaves stippled?"
+        ],
+        "recommendations": {
+            "low": [
+                "Wash plants with water spray",
+                "Maintain adequate watering"
+            ],
+            "medium": [
+                "Release predatory mites",
+                "Apply insecticidal soap"
+            ],
+            "high": [
+                "Apply targeted miticides",
+                "Remove severely infested plants"
+            ]
+        },
+        "prevention": [
+            "Keep plants well-watered",
+            "Reduce dust in field"
+        ],
+        "source_category": [
+            "ICAR",
+            "FAO"
+        ]
+    },
+    "Tomato_Target_Spot": {
+        "display_name": "Target Spot",
+        "crop": "Tomato",
+        "type": "Disease",
+        "description": "Fungal pathogen causing target-shaped lesions.",
+        "symptoms": [
+            "Brown lesions with light centers",
+            "Lesions on fruit"
+        ],
+        "common_conditions": [
+            "High humidity",
+            "Prolonged leaf wetness"
+        ],
+        "risk_factors": {
+            "rapid_spread": true,
+            "leaf_damage": "high",
+            "fruit_damage": "high"
+        },
+        "risk_questions": [
+            "Are there target-like spots on leaves and fruit?",
+            "Is the canopy very dense?",
+            "Is it very humid?"
+        ],
+        "recommendations": {
+            "low": [
+                "Improve air circulation",
+                "Prune heavily"
+            ],
+            "medium": [
+                "Apply protectant fungicides",
+                "Remove affected fruit"
+            ],
+            "high": [
+                "Use systemic fungicides",
+                "Consider early harvest"
+            ]
+        },
+        "prevention": [
+            "Adequate spacing",
+            "Avoid overhead irrigation"
+        ],
+        "source_category": [
+            "ICAR",
+            "FAO"
+        ]
+    },
+    "Tomato_Mosaic_Virus": {
+        "display_name": "Tomato Mosaic Virus",
+        "crop": "Tomato",
+        "type": "Disease",
+        "description": "Highly contagious viral disease.",
+        "symptoms": [
+            "Mottled light and dark green leaves",
+            "Stunted growth"
+        ],
+        "common_conditions": [
+            "Mechanical transmission",
+            "Handling plants"
+        ],
+        "risk_factors": {
+            "rapid_spread": true,
+            "leaf_damage": "medium",
+            "fruit_damage": "high"
+        },
+        "risk_questions": [
+            "Are leaves mottled or distorted?",
+            "Have workers handled the plants recently?",
+            "Are plants stunted?"
+        ],
+        "recommendations": {
+            "low": [
+                "Wash hands frequently",
+                "Disinfect tools"
+            ],
+            "medium": [
+                "Remove infected plants",
+                "Control weeds"
+            ],
+            "high": [
+                "Destroy all infected plants",
+                "Sanitize entire greenhouse/field"
+            ]
+        },
+        "prevention": [
+            "Use resistant varieties",
+            "Prohibit smoking near plants"
+        ],
+        "source_category": [
+            "ICAR",
+            "FAO"
+        ]
+    },
+    "Tomato_Yellow_Leaf_Curl_Virus": {
+        "display_name": "Yellow Leaf Curl Virus",
+        "crop": "Tomato",
+        "type": "Disease",
+        "description": "Whitefly-transmitted viral disease.",
+        "symptoms": [
+            "Yellowing and upward curling of leaves",
+            "Stunted growth"
+        ],
+        "common_conditions": [
+            "High whitefly populations",
+            "Warm weather"
+        ],
+        "risk_factors": {
+            "rapid_spread": true,
+            "leaf_damage": "high",
+            "fruit_damage": "high"
+        },
+        "risk_questions": [
+            "Are leaves curling upwards?",
+            "Are whiteflies present?",
+            "Is growth stunted?"
+        ],
+        "recommendations": {
+            "low": [
+                "Use reflective mulches",
+                "Monitor for whiteflies"
+            ],
+            "medium": [
+                "Apply neem oil for whiteflies",
+                "Use insect exclusion netting"
+            ],
+            "high": [
+                "Destroy infected plants",
+                "Apply targeted insecticides for whiteflies"
+            ]
+        },
+        "prevention": [
+            "Control whitefly populations",
+            "Use resistant varieties"
+        ],
+        "source_category": [
+            "ICAR",
+            "FAO"
+        ]
+    },
+    "Tomato_Healthy": {
+        "display_name": "Healthy Tomato",
+        "crop": "Tomato",
+        "type": "Healthy",
+        "description": "Robust tomato plant with no disease symptoms.",
+        "symptoms": [
+            "Vibrant green foliage",
+            "Firm, unblemished fruit"
+        ],
+        "common_conditions": [
+            "Optimal watering",
+            "Adequate spacing"
+        ],
+        "risk_factors": {
+            "rapid_spread": false,
+            "leaf_damage": "low",
+            "fruit_damage": "none"
+        },
+        "risk_questions": [
+            "Are plants growing well?",
+            "Is soil moisture consistent?",
+            "Is foliage vibrant?"
+        ],
+        "recommendations": {
+            "low": [
+                "Maintain current practices",
+                "Monitor for pests"
+            ],
+            "medium": [
+                "Continue standard care",
+                "Routine scouting"
+            ],
+            "high": [
+                "Not applicable",
+                "Not applicable"
+            ]
+        },
+        "prevention": [
+            "Crop rotation",
+            "Balanced fertilization"
+        ],
+        "source_category": [
+            "ICAR",
+            "FAO"
+        ]
+    },
+    "Pepper_Bacterial_Spot": {
+        "display_name": "Bacterial Spot",
+        "crop": "Pepper",
+        "type": "Disease",
+        "description": "Bacterial infection causing spotting and defoliation.",
+        "symptoms": [
+            "Small water-soaked leaf spots",
+            "Brown spots on fruit"
+        ],
+        "common_conditions": [
+            "Warm, humid weather",
+            "Splashing rain"
+        ],
+        "risk_factors": {
+            "rapid_spread": true,
+            "leaf_damage": "high",
+            "fruit_damage": "high"
+        },
+        "risk_questions": [
+            "Are leaves dropping prematurely?",
+            "Are there scabs on the peppers?",
+            "Did it rain heavily?"
+        ],
+        "recommendations": {
+            "low": [
+                "Avoid overhead watering",
+                "Improve air circulation"
+            ],
+            "medium": [
+                "Apply copper-based sprays",
+                "Remove infected leaves"
+            ],
+            "high": [
+                "Use heavy copper treatments",
+                "Destroy severely infected plants"
+            ]
+        },
+        "prevention": [
+            "Use disease-free seed",
+            "Crop rotation"
+        ],
+        "source_category": [
+            "ICAR",
+            "FAO"
+        ]
+    },
+    "Pepper_Healthy": {
+        "display_name": "Healthy Pepper",
+        "crop": "Pepper",
+        "type": "Healthy",
+        "description": "Healthy pepper plant with vigorous growth.",
+        "symptoms": [
+            "Dark green leaves",
+            "Healthy fruit development"
+        ],
+        "common_conditions": [
+            "Good soil drainage",
+            "Adequate sunlight"
+        ],
+        "risk_factors": {
+            "rapid_spread": false,
+            "leaf_damage": "low",
+            "fruit_damage": "none"
+        },
+        "risk_questions": [
+            "Are the leaves dark green?",
+            "Is soil moisture adequate?",
+            "Is fruit healthy?"
+        ],
+        "recommendations": {
+            "low": [
+                "Maintain current practices",
+                "Monitor for pests"
+            ],
+            "medium": [
+                "Continue standard care",
+                "Routine scouting"
+            ],
+            "high": [
+                "Not applicable",
+                "Not applicable"
+            ]
+        },
+        "prevention": [
+            "Crop rotation",
+            "Balanced nutrition"
+        ],
+        "source_category": [
+            "ICAR",
+            "FAO"
+        ]
+    },
+    "Strawberry_Leaf_Scorch": {
+        "display_name": "Leaf Scorch",
+        "crop": "Strawberry",
+        "type": "Disease",
+        "description": "Fungal disease causing purple/red spots.",
+        "symptoms": [
+            "Irregular purple to brown spots",
+            "Leaves appearing scorched"
+        ],
+        "common_conditions": [
+            "Wet weather",
+            "Poor air circulation"
+        ],
+        "risk_factors": {
+            "rapid_spread": true,
+            "leaf_damage": "medium",
+            "fruit_damage": "none"
+        },
+        "risk_questions": [
+            "Do leaves look burned?",
+            "Are there purple spots on foliage?",
+            "Is it wet?"
+        ],
+        "recommendations": {
+            "low": [
+                "Remove dead leaves",
+                "Improve plant spacing"
+            ],
+            "medium": [
+                "Apply preventative fungicides",
+                "Avoid overhead watering"
+            ],
+            "high": [
+                "Apply targeted fungicides",
+                "Renovate strawberry beds"
+            ]
+        },
+        "prevention": [
+            "Plant resistant varieties",
+            "Proper plant spacing"
+        ],
+        "source_category": [
+            "ICAR",
+            "FAO"
+        ]
+    },
+    "Strawberry_Healthy": {
+        "display_name": "Healthy Strawberry",
+        "crop": "Strawberry",
+        "type": "Healthy",
+        "description": "Vigorous strawberry plant without disease.",
+        "symptoms": [
+            "Green, healthy leaves",
+            "Good fruit set"
+        ],
+        "common_conditions": [
+            "Well-drained soil",
+            "Adequate sunlight"
+        ],
+        "risk_factors": {
+            "rapid_spread": false,
+            "leaf_damage": "low",
+            "fruit_damage": "none"
+        },
+        "risk_questions": [
+            "Are runners healthy?",
+            "Is fruit developing well?",
+            "Are leaves clear?"
+        ],
+        "recommendations": {
+            "low": [
+                "Maintain current practices",
+                "Monitor for pests"
+            ],
+            "medium": [
+                "Continue standard care",
+                "Routine scouting"
+            ],
+            "high": [
+                "Not applicable",
+                "Not applicable"
+            ]
+        },
+        "prevention": [
+            "Use certified disease-free plants",
+            "Proper site selection"
+        ],
+        "source_category": [
+            "ICAR",
+            "FAO"
+        ]
+    },
+    "Peach_Bacterial_Spot": {
+        "display_name": "Bacterial Spot",
+        "crop": "Peach",
+        "type": "Disease",
+        "description": "Bacterial disease affecting leaves, twigs, and fruit.",
+        "symptoms": [
+            "Small angular purple spots on leaves",
+            "Pitting and cracking on fruit"
+        ],
+        "common_conditions": [
+            "Warm, wet, windy weather",
+            "Sandy soils"
+        ],
+        "risk_factors": {
+            "rapid_spread": true,
+            "leaf_damage": "medium",
+            "fruit_damage": "high"
+        },
+        "risk_questions": [
+            "Are leaves dropping early?",
+            "Is fruit pitted or cracked?",
+            "Is soil sandy?"
+        ],
+        "recommendations": {
+            "low": [
+                "Ensure balanced nutrition",
+                "Prune to improve airflow"
+            ],
+            "medium": [
+                "Apply copper treatments",
+                "Monitor tree health"
+            ],
+            "high": [
+                "Extensive copper applications",
+                "Remove severely infected branches"
+            ]
+        },
+        "prevention": [
+            "Plant resistant varieties",
+            "Maintain good tree vigor"
+        ],
+        "source_category": [
+            "ICAR",
+            "FAO"
+        ]
+    },
+    "Peach_Healthy": {
+        "display_name": "Healthy Peach",
+        "crop": "Peach",
+        "type": "Healthy",
+        "description": "Healthy peach tree with robust growth.",
+        "symptoms": [
+            "Vibrant green leaves",
+            "Smooth developing fruit"
+        ],
+        "common_conditions": [
+            "Optimal pruning",
+            "Good soil fertility"
+        ],
+        "risk_factors": {
+            "rapid_spread": false,
+            "leaf_damage": "low",
+            "fruit_damage": "none"
+        },
+        "risk_questions": [
+            "Is the canopy well-pruned?",
+            "Is fruit developing normally?",
+            "Are leaves vibrant?"
+        ],
+        "recommendations": {
+            "low": [
+                "Maintain current practices",
+                "Monitor for pests"
+            ],
+            "medium": [
+                "Continue standard care",
+                "Routine scouting"
+            ],
+            "high": [
+                "Not applicable",
+                "Not applicable"
+            ]
+        },
+        "prevention": [
+            "Annual dormant pruning",
+            "Proper fertilization"
+        ],
+        "source_category": [
+            "ICAR",
+            "FAO"
+        ]
+    }
+}

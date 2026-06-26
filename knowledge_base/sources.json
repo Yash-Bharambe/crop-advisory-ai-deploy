@@ -1,0 +1,33 @@
+{
+    "ICAR": {
+
+        "name": "Indian Council of Agricultural Research",
+
+        "purpose": "Agricultural disease and pest management guidance",
+
+        "website": "https://icar.gov.in"
+
+    },
+
+
+    "FAO": {
+
+        "name": "Food and Agriculture Organization",
+
+        "purpose": "Global agricultural information",
+
+        "website": "https://www.fao.org"
+
+    },
+
+
+    "CIMMYT": {
+
+        "name": "International Maize and Wheat Improvement Center",
+
+        "purpose": "Crop research and agricultural practices",
+
+        "website": "https://www.cimmyt.org"
+
+    }
+}
